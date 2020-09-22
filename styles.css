@@ -1,0 +1,24 @@
+.keltainen {
+    position: absolute;
+    right: 250px;
+    top: 10px;
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.punainen {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+
+.vihrea {
+    position: absolute;
+    right: 500px;
+    top: 10px;
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
