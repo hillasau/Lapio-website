@@ -1,10 +1,16 @@
 .keltainen {
     position: absolute;
-    right: 250px;
-    top: 10px;
+    left: 250px;
     width: 200px;
     height: 100px;
     background-color: yellow;
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
 }
 
 .punainen {
@@ -12,13 +18,26 @@
     width: 200px;
     height: 100px;
     background-color: red;
+    border-style: solid;
+    border-width: 10px;
+    border-color: green;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
 }
 
 .vihrea {
     position: absolute;
-    right: 500px;
-    top: 10px;
+    left: 500px;
     width: 200px;
     height: 100px;
     background-color: green;
+    border-style: solid;
+    border-width: 10px;
+    border-color: yellow;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
 }
